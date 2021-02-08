@@ -5,7 +5,7 @@
 CryptoKitties is a blockchain-based game that is based on the Ethereum Blockchain. It is built by the Vancouver-based design studio AxiomZen. 
 To be honest, the entire concept of CryptoKitties is as easy as pie. That is first of all, a game. The whole structure of which is focused on breeding cats and getting the most rare breeds of them, which are only possible. In other words, you use a digital virtual kitten and make more kittens, while meeting other cats.
 
-You may ask, what is the point of getting rare breeds of the kittens. The answer is simple. You are able to make money on them, while selling the virtual kids of your pet. And, I am not joking, several days ago, one of the kittens was sold for $37.000. Sounds unbelievable. However, the system of CryptoKitties is a sort of a mode of the international market, where you can make money from absolutely nothing. Well, let us get a bit dipper inside the system and figure out, how to start making money.
+One may ask, what is the point of getting rare breeds of the kittens. Users are able to make money on them, while selling the virtual kids of the pet. Kittens can be sold for several thousand dollars. Being run on ether, allows people from all over to buy and sell these kittens. The game started with only 100 kitties and people have been able to have more kitties by breeding them. One may say that it is a similar concept to a cryptocurrency where kitties are being bred like cryptocurrency is being mined. 
 
 ## Why This Matters
 
@@ -15,4 +15,15 @@ Cryptokitties has been a pioneer with incorportating blockchain technology in th
 
 ## Why This May be Interesting
 
+CryptoKitties can potentially change the landscape of how (and why) games are played. While many have been gaming just for fun. Games like CryptoKitties have incorporated a financial component to these games where users can play these games to actually make more money. Gaming which was traditionally considered as a hobby or a time-waste can now be considered as an investment. Cryptokitties have been able to use the concept of bitcoin and ethereum where these cryptocurrencies are limited in supply and they have been able to apply is to the gaming industry. 
+This is a new concept which is only 3 years old. It will be interesting to see how it not only impacts the gaming and blockchain industries, but also how it impacts the future of investments. 
 
+## Resources 
+
+[About CryptoKittes](https://www.cryptokitties.co/)
+
+[How CryptoKitties Works] (https://www.cryptokitties.co/faq)
+
+[CryptoKitties initial launch and $1M in revenue in the first 6 days](https://techcrunch.com/2017/12/03/people-have-spent-over-1m-buying-virtual-cats-on-the-ethereum-blockchain/)
+
+[The progress of CyrptoKitties](https://www.investopedia.com/news/cryptokitties-are-still-thing-heres-why/)
